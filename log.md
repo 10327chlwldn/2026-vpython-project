@@ -6,3 +6,31 @@
 10327최지우 오늘의 한일:표면에 구 모양 4개를 만들어서 원숭이 얼굴 틀을 만들었다. 내가 직접 책으로 위치를 옮기는법 찾아보고 직접실행해봐서 신기했다. 근데 위치설정은 아직도 헷갈린다ㅜㅜ
 내일의할일: 원숭이 얼굴 만들기
 10308 김서연: 윈도우 배경화면을 넣으려고 했는데 실패해버렸다. 다음시간에 어떻게 할지 선생님께 물어봐야한다. 우땅이 얼굴 위치 잡기가 생각보다 쉽지 않아서 더 열심히했다. 이거 왜이렇게 어려운가용ㅠㅠ
+#20261104
+10327 최지우: 오늘은 원숭이 귀랑 얼굴을 만들었당!! 혼자서 이제 방향설정이나 z키를 익혔다! 근데 이제 눈이랑 입만들기가 어려울거같다ㅜㅜ 내일의할일: 원숭이 완성하기
+sphere(pos=vec(-1.5, -0.5, 0.5), radius=0.25, color=vec(153/255, 76/255, 0/255), opacity=1)
+sphere(pos=vec(-0.7, -0.3, 0.5), radius=0.25, color=vec(153/255, 76/255, 0/255), opacity=1)
+sphere(pos=vec(0.2, -0.6, 0.5), radius=0.25, color=vec(153/255, 76/255, 0/255), opacity=1)
+sphere(pos=vec(1, -0.3, 0.5), radius=0.25, color=vec(153/255, 76/255, 0/255), opacity=1)
+sphere(pos=vec(-1.7, -0.49, 0.5), radius=0.12, color=vec(153/255, 76/255, 0/255), opacity=1)
+sphere(pos=vec(-1.3, -0.49, 0.5), radius=0.12, color=vec(153/255, 76/255, 0/255), opacity=1)
+sphere(pos=vec(-0.9, -0.3, 0.5), radius=0.12, color=vec(153/255, 76/255, 0/255), opacity=1)
+sphere(pos=vec(-0.49, -0.3, 0.5), radius=0.12, color=vec(153/255, 76/255, 0/255), opacity=1)
+sphere(pos=vec(0.4, -0.6, 0.5), radius=0.12, color=vec(153/255, 76/255, 0/255), opacity=1)
+sphere(pos=vec(0.002, -0.6, 0.5), radius=0.12, color=vec(153/255, 76/255, 0/255), opacity=1)
+sphere(pos=vec(1.2, -0.3, 0.5), radius=0.12, color=vec(153/255, 76/255, 0/255), opacity=1)
+sphere(pos=vec(0.79, -0.3, 0.5), radius=0.12, color=vec(153/255, 76/255, 0/255), opacity=1)
+sphere(pos=vec(-1.5, -0.5, 0.588), radius=0.2, color=vec(255/255, 229/255, 204/255), opacity=1)
+sphere(pos=vec(-0.7, -0.3, 0.58), radius=0.2, color=vec(255/255, 229/255, 204/255), opacity=1)
+sphere(pos=vec(0.2, -0.6, 0.58), radius=0.2, color=vec(255/255, 229/255, 204/255), opacity=1)
+sphere(pos=vec(1, -0.3, 0.584), radius=0.2, color=vec(255/255, 229/255, 204/255), opacity=1)
+sphere(pos=vec(-1.7, -0.49, 0.55), radius=0.1, color=vec(255/255, 229/255, 204/255), opacity=1)
+sphere(pos=vec(-1.3, -0.49, 0.55), radius=0.1, color=vec(255/255, 229/255, 204/255), opacity=1)
+sphere(pos=vec(-0.9, -0.3, 0.55), radius=0.1, color=vec(255/255, 229/255, 204/255), opacity=1)
+sphere(pos=vec(-0.49, -0.3, 0.55), radius=0.1, color=vec(255/255, 229/255, 204/255), opacity=1)
+sphere(pos=vec(0.4, -0.6, 0.55), radius=0.1, color=vec(255/255, 229/255, 204/255), opacity=1)
+sphere(pos=vec(0.002, -0.6, 0.55), radius=0.1, color=vec(255/255, 229/255, 204/255), opacity=1)
+sphere(pos=vec(1.2, -0.3, 0.55), radius=0.1, color=vec(255/255, 229/255, 204/255), opacity=1)
+sphere(pos=vec(0.79, -0.3, 0.55), radius=0.1, color=vec(255/255, 229/255, 204/255), opacity=1)
+
+10308 김서연: 오늘 드디어 우땅이 얼굴 완성했습니다.. 맨날 완성한다 했는데 생각보다 시간이 많이 걸려서 힘드네여ㅜㅜ 이제 배경만 넣고 감자숭이와 합쳐서 디테일 잡으면 거의 완성입ㄴㅣ다!!!!
