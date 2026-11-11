@@ -51,3 +51,30 @@ sphere(opacity = 0.8, color = vec (225/255, 208/255, 161/255), pos=vec(48,21,10)
 sphere(opacity = 1, color = color.black , pos=vec(44.5,21.5,15), radius = 0.8)
 sphere(opacity = 1, color = color.black , pos=vec(46.5,21.5,16), radius = 0.8)
 sphere(opacity = 1, color = color.black , pos=vec(46.5,18,14), radius = 1.7)
+
+#20261111
+10327 최지우 : 오늘은 감자숭이 눈 달았어용!! 처음으로 혼자서 박스 함수를 써봐서 익숙하지 않았어요ㅜㅜㅜ 
+sphere(pos=vec(-1.6, -0.47, 0.8), radius=0.035,color=vec(51/255, 25/255, 0/255) , opacity=0.7)
+sphere(pos=vec(-1.4, -0.47, 0.8), radius=0.035,color=vec(51/255, 25/255, 0/255) , opacity=0.7)
+sphere(pos=vec(-0.8, -0.27, 0.8), radius=0.035, color=vec(51/255, 25/255, 0/255), opacity=0.7)
+sphere(pos=vec(-0.6, -0.27, 0.8), radius=0.035, color=vec(51/255, 25/255, 0/255), opacity=0.7)
+sphere(pos=vec(0.3, -0.57, 0.8), radius=0.035, color=vec(51/255, 25/255, 0/255), opacity=0.7)
+sphere(pos=vec(0.1, -0.57, 0.8), radius=0.035, color=vec(51/255, 25/255, 0/255), opacity=0.7)
+sphere(pos=vec(1.1, -0.27, 0.8), radius=0.035, color=vec(51/255, 25/255, 0/255), opacity=1)
+sphere(pos=vec(0.9, -0.27, 0.8), radius=0.035, color=vec(51/255, 25/255, 0/255), opacity=1)
+box(pos=vec(-1.4,-0.3,0.8), color=vec(51/255, 25/255, 0/255), size=vec(0.1,1,0.3))
+내일의 할일은 입 완성하고 배경완성하기!
+10308 김서연: 오늘 아주 큰일을 했습니다.. 우땅이 얼굴 다시 만들었어용ㅠㅠ 그래도 이제 거의 만들었어여 콧구멍이랑 눈동자만 붙이면 완성입니다!! 다음시간에는 모든 원숭이들을 다 합쳐서 배경을 넣고 어느정도 완성해보겠습니당!!
+sphere(opacity = 1 , color = vec (140/255, 78/255, 45/255), pos=vec(2,1,0.5), radius = 0.5)
+sphere(opacity = 0.8, color = vec (225/255, 208/255, 161/255),pos=vec(1.6,1,0.8), radius =0.15)
+sphere(opacity = 1, color = color.black , pos=vec(1,1,0.5), radius = 0.15)
+sphere(opacity = 1, color = color.white , pos=vec(1,1,0.5), radius = 0.1)
+sphere(opacity = 1, color = color.white , pos=vec(1,1,0.5), radius = 0.1)\
+sphere(opacity = 0.8, color = vec (225/255, 208/255, 161/255), pos=vec(2,1,0.95), radius = 0.15)
+sphere(opacity = 1, color = color.black , pos=vec(1,1,0.5), radius = 0.15)
+sphere(opacity = 1, color = color.white , pos=vec(1,1,0.5), radius = 0.1)
+sphere(opacity = 1, color = color.white , pos=vec(1,1,0.5), radius = 0.1)
+sphere(opacity = 0.8, color = vec (225/255, 208/255, 161/255), pos=vec(1.87,0.7,0.8), radius = 0.2)
+sphere(opacity = 1, color = color.black , pos=vec(2,0.5,1), radius = 0.05)
+sphere(opacity = 1, color = color.black , pos=vec(1,1,0.5), radius = 0.05)
+sphere(opacity = 1, color = color.black , pos=vec(1,1,0.5), radius = 0.15)
